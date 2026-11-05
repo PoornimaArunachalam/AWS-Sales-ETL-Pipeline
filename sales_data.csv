@@ -1,0 +1,11 @@
+transaction_id,customer_id,product,amount,region
+101,C001,Laptop,55000,South
+102,C002,Mobile,20000,North
+103,C003,Tablet,15000,East
+104,C004,Keyboard,1200,West
+105,C005,Mouse,800,South
+106,,Monitor,12000,North
+107,C007,Printer,8500,East
+108,C008,Headphones,2500,West
+109,C009,Smartwatch,4000,South
+110,C010,Camera,30000,North
